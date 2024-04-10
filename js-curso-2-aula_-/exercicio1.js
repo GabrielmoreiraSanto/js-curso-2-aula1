@@ -7,3 +7,4 @@ function calculoIMC(parPESO, parALTURA){
 
  imc = calculoIMC(peso, altura);
 alert(`O valor do IMC é ${imc.toFixed(2)}`);
+
